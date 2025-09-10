@@ -12,13 +12,22 @@ Some fun facts about me:
 
 ![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096) -->
 
-# About Me
+# 6.1040 Portfolio
+
+## About Me
 *My name is Ryan Stam, I'm a 4th year student at MIT majoring in 6-3 (CS and Engineering), it's nice to meet you!*
+
+Some of my goals for the semester:
+1. Gain more experience with creating full, E2E apps
+2. Learn about design principles for software
+3. Gain skills for team-based software development
 
 Some fun facts about me: 
 1. I've spun fire poi with the MIT Spinning Arts club
 2. I'm a tour guide for MIT Admissions
 3. I have a dog named Niko
 
+
+![Picture of Niko (my dog)](assets/61040-niko.jpg)
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
+[Link to Assignment 1](assignments/assignment1/assignment1.md)
