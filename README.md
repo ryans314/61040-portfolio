@@ -29,5 +29,7 @@ Some fun facts about me:
 
 
 ![Picture of Niko (my dog)](assets/61040-niko.jpg)
+
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1/assignment1.md)
+[Link to Assignment 1](assignments/assignment1/assignment1.md)  
+[Link to PSET 1](assignments/pset1/pset1.md)  
