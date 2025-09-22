@@ -33,3 +33,4 @@ Some fun facts about me:
 # Table of Contents
 [Link to Assignment 1](assignments/assignment1/assignment1.md)  
 [Link to PSET 1](assignments/pset1/pset1.md)  
+[Link to PSET 2](assignments/pset2/pset2.md)  
