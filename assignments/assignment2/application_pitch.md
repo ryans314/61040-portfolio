@@ -2,7 +2,7 @@
 
 ## Name - FocusReader
 
-**Motivation - FocusReader will solve the problem of individuals being unable to focus when reading digital content**
+**Motivation** - FocusReader will solve the problem of individuals being unable to focus when reading digital content
 
 ## Key Features
 

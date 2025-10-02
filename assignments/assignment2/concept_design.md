@@ -10,9 +10,9 @@
 
 **state**  
 a set of Users with:  
-    a username String  
-    a password String  
-    a textPreferences TextSettings
+&emsp;a username String  
+&emsp;a password String  
+&emsp;a textPreferences TextSettings
 
 **actions**  
 createAccount(username: String, password: String): (user: User)  
@@ -37,15 +37,15 @@ authenticate(username: String, password: String): (user: User)
 
 **state**  
 a set of Libraries with:  
-    a user User
-    a set of documents  
+&emsp;a user User
+&emsp;a set of documents  
 
 a set of Documents with:  
-    a name String  
-    a file File  
-    a settings TextSettings  
-    a stats FocusStats
-    a set of Annotations
+&emsp;a name String  
+&emsp;a file File  
+&emsp;a settings TextSettings  
+&emsp;a stats FocusStats
+&emsp;a set of Annotations
 
 **actions**  
 createLibrary(user: User): (library: Library)  
@@ -61,7 +61,7 @@ removeDocument(library: Library, document: Document)
 &emsp;**effects** removes document from the set of documents and from library  
 
 createDocument(name: String, file: File, library: Library): (document: Document)  
-&emsp;**requires** a document with name and file does not already exist in the given library
+&emsp;**requires** a document with name and file does not already exist in the given library  
 &emsp;**effects** creates a new Document with name, file, default TextSettings, and default FocusStats, and empty set of Annotations 
 
 openDocument(user: User, document: Document): (document: Document)  
